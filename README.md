@@ -75,3 +75,15 @@ ___
   def add(num1, num2) :
       return num1+num2
 ```
+
+!-- Tables  -->
+| NAME   | EMAIL                        |
+| ------ | -----                        |
+|Aditya  | aditya.kadambari999@gmail.com|
+
+
+<!-- Task lists  -->
+
+* [x] TASK 1
+* [X] TASK 2
+* [ ] TASK 3
