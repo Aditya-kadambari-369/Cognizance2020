@@ -32,3 +32,23 @@ ___
 [Cognizance 2020](https://cognizance2020.github.io/)
 
 [Cognizance 2020](https://cognizance2020.github.io/ 'cognizance 2020')
+
+
+<!-- UL  -->
+* ITEM 1
+
+* ITEM 2
+
+* ITEM 3
+  * Nested ITEM 1
+  * Nested ITEM 2
+
+
+<!-- OL  -->
+1. ITEM 1
+1. ITEM 2
+1. ITEM 3
+
+
+<!-- Inline Code Block -->
+<p> This is a paragraph</p>
